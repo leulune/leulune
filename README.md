@@ -20,7 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" />
     <img src="https://www.svgrepo.com/show/349342/docker.svg" width="50" height="50"/>
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50" height="50"/>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aygwc&psig=AOvVaw01xYIaCN0cuYbZk0b6UDCQ&ust=1721690505247000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCb84ujuYcDFQAAAAAdAAAAABAE" width="50" height="50"/>
 </div>
 <div align="center">
     <h3>Back-End</h3>
