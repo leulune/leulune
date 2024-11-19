@@ -24,6 +24,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/>
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-    <img src="[https://www.vhv.rs/dpng/d/498-4989583_nestjs-logo-hd-png-download.png](https://icon.icepanel.io/Technology/svg/Nest.js.svg)" width="50" height="50" />
+    <img src="https://www.vhv.rs/dpng/d/498-4989583_nestjs-logo-hd-png-download.png" width="50" height="50" />
 </div>
 <hr/>
