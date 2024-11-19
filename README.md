@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e581b331-04be-4171-a572-08a547d53c93)<h1 align="center">Hi, My name is Madina
+<h1 align="center">Hi, My name is Madina
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Backend (NodeJS) && ex-Frontend developer from Saint Petersburg</h3>  
 <div align="center">
